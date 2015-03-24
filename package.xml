@@ -1,6 +1,6 @@
 <package>
   <name>rail_manipulation_msgs</name>
-  <version>0.0.1</version>
+  <version>0.0.2</version>
   <description>Common Manipulation Messages and Services Used in RAIL Manipulation Packages</description>
 
   <author email="davidkent@wpi.edu">David Kent</author>

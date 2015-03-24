@@ -26,6 +26,9 @@ add_message_files(FILES
 add_action_files(FILES
   Gripper.action
   Lift.action
+  Recognize.action
+  RecognizeAll.action
+  RecognizeObject.action
   VerifyGrasp.action
 )
 
