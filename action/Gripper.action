@@ -1,0 +1,8 @@
+# Define the goal
+bool close      # True for close gripper, false for open gripper
+---
+# Define the result
+bool success    # If the gripper action was successful
+---
+# Define a feedback message
+string message  # The current state message
