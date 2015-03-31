@@ -1,7 +1,0 @@
-# Define the goal
----
-# Define the result
-bool[] successes  # List of results; true if the object was recognized, false otherwise
----
-# Define a feedback message
-string message    # The current state message
