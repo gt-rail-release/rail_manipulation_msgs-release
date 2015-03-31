@@ -1,9 +1,0 @@
-# Define the goal
-uint32 index    # Index into the segmented object list of the object to be recognized
-string name     # Optional name of the object used to narrow down model candidates
----
-# Define the result
-bool success    # True if the object was recognized, false otherwise
----
-# Define a feedback message
-string message  # The current state message
