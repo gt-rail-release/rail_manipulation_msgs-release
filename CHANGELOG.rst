@@ -2,6 +2,12 @@
 Changelog for package rail_manipulation_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.3 (2015-03-31)
+------------------
+* orientation added
+* removed old recognize actions
+* Contributors: Russell Toris
+
 0.0.2 (2015-03-24)
 ------------------
 * Refactored recognize actions
