@@ -2,6 +2,11 @@
 Changelog for package rail_manipulation_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.4 (2015-04-10)
+------------------
+* bounding box info added
+* Contributors: Russell Toris
+
 0.0.3 (2015-03-31)
 ------------------
 * orientation added
