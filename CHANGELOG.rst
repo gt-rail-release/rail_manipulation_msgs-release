@@ -2,6 +2,11 @@
 Changelog for package rail_manipulation_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.6 (2015-04-22)
+------------------
+* cleared flag added
+* Contributors: Russell Toris
+
 0.0.5 (2015-04-14)
 ------------------
 * changelog updated
