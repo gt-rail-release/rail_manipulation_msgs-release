@@ -1,3 +1,24 @@
+## rail_manipulation_msgs (jade) - 0.0.7-0
+
+The packages in the `rail_manipulation_msgs` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade rail_manipulation_msgs` on `Mon, 27 Apr 2015 15:38:58 -0000`
+
+The `rail_manipulation_msgs` package was released.
+
+Version of package(s) in repository `rail_manipulation_msgs`:
+- upstream repository: https://github.com/WPI-RAIL/rail_manipulation_msgs.git
+- release repository: https://github.com/wpi-rail-release/rail_manipulation_msgs-release.git
+- rosdistro version: `0.0.6-0`
+- old version: `0.0.6-0`
+- new version: `0.0.7-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.8`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## rail_manipulation_msgs (hydro) - 0.0.7-0
 
 The packages in the `rail_manipulation_msgs` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro rail_manipulation_msgs` on `Mon, 27 Apr 2015 15:38:09 -0000`
