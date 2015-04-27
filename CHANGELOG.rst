@@ -2,6 +2,12 @@
 Changelog for package rail_manipulation_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.7 (2015-04-27)
+------------------
+* Merge branch 'develop' of github.com:WPI-RAIL/rail_manipulation_msgs into develop
+* Included success rate data with grasps
+* Contributors: David Kent
+
 0.0.6 (2015-04-22)
 ------------------
 * cleared flag added
