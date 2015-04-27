@@ -10,6 +10,6 @@ bool recognized                       # True if the object is recognized
 string name                           # Object name (if recognized)
 uint32 model_id                       # Object model ID (if recognized)
 float64 confidence                    # Recognition confidence value
-geometry_msgs/PoseStamped[] grasps    # List of grasp poses (if recognized)
+Grasp[] grasps                        # List of grasps (if recognized)
 visualization_msgs/Marker marker      # The downsampled visualization of the object
 
