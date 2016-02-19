@@ -1,4 +1,4 @@
-rail_manipulation_msgs [![Build Status](https://api.travis-ci.org/WPI-RAIL/rail_manipulation_msgs.png)](https://travis-ci.org/WPI-RAIL/rail_manipulation_msgs)
+rail_manipulation_msgs [![Build Status](https://api.travis-ci.org/GT-RAIL/rail_manipulation_msgs.png)](https://travis-ci.org/GT-RAIL/rail_manipulation_msgs)
 ======================
 
 #### Common Manipulation Messages and Services Used in RAIL Manipulation Packages

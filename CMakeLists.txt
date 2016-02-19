@@ -19,15 +19,29 @@ find_package(catkin REQUIRED COMPONENTS
 ## Generate messages in the 'msg' folder
 add_message_files(FILES
   Grasp.msg
+  GraspingState.msg
   SegmentedObject.msg
   SegmentedObjectList.msg
 )
 
+## Generate services in the 'srv' folder
+add_service_files(FILES
+  CallIK.srv
+  CartesianPath.srv
+  PrepareGrasp.srv
+)
+
+
 ## Generate actions in the 'action' folder
 add_action_files(FILES
+  Arm.action
   Gripper.action
   Lift.action
+  MoveToJointPose.action
+  MoveToPose.action
+  Pickup.action
   RecognizeObject.action
+  Store.action
   VerifyGrasp.action
 )
 
