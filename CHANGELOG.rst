@@ -2,6 +2,15 @@
 Changelog for package rail_manipulation_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.8 (2016-02-19)
+------------------
+* Update README.md
+* Update package.xml
+* Added grasping state message
+* Consolidated some messages with carl_moveit for more general use
+* Added (optional) speed and force parameters to the gripper goal
+* Contributors: David Kent
+
 0.0.7 (2015-04-27)
 ------------------
 * Merge branch 'develop' of github.com:WPI-RAIL/rail_manipulation_msgs into develop
