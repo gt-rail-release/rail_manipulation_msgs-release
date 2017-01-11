@@ -40,6 +40,7 @@ add_action_files(FILES
   MoveToJointPose.action
   MoveToPose.action
   Pickup.action
+  Primitive.action
   RecognizeObject.action
   Store.action
   VerifyGrasp.action

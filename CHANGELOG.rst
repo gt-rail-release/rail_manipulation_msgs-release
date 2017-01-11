@@ -2,6 +2,15 @@
 Changelog for package rail_manipulation_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.9 (2017-01-11)
+------------------
+* Added optional flag for attaching object collision model after pickup
+* Updated Cartesian Path service to use stamped poses
+* Primitive action for simple Cartesian actions
+* added grasp id to grasp messages
+* Added joint state difference to optionally prevent large changes in joint configuration
+* Contributors: Aaron St. Clair, David Kent, Russell Toris
+
 0.0.8 (2016-02-19)
 ------------------
 * Update README.md
