@@ -1,12 +1,12 @@
 <package>
   <name>rail_manipulation_msgs</name>
-  <version>0.0.8</version>
+  <version>0.0.9</version>
   <description>Common Manipulation Messages and Services Used in RAIL Manipulation Packages</description>
 
   <author email="dekent@gatech.edu">David Kent</author>
-  <author email="rctoris@wpi.edu">Russell Toris</author>
+  <author email="russell.toris@gmail.com">Russell Toris</author>
   <maintainer email="dekent@gatech.edu">David Kent</maintainer>
-  <maintainer email="rctoris@wpi.edu">Russell Toris</maintainer>
+  <maintainer email="russell.toris@gmail.com">Russell Toris</maintainer>
   
   <license>BSD</license>
 
