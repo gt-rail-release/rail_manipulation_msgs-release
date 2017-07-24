@@ -29,7 +29,14 @@ script:
   - source /opt/ros/$CI_ROS_DISTRO/setup.bash
   - mkdir -p $CATKIN_WS_SRC
   - ln -s $TRAVIS_BUILD_DIR $CATKIN_WS_SRC
+  - cd $CATKIN_WS_SRC
+  - catkin_init_workspace
+  - pip install catkin-pkg
+  - pip install empy
+  - which python
+  - python -V
+  - echo $PYTHONPATH
+  - dpkg -L python-catkin-pkg
   - cd $CATKIN_WS
-  - catkin init
-  - catkin config --install
-  - catkin build --limit-status-rate 0.1 --no-notify -DCMAKE_BUILD_TYPE=Release
+  - catkin_make
+  - catkin_make install
