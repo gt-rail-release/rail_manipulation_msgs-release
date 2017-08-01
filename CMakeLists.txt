@@ -29,6 +29,7 @@ add_message_files(FILES
 add_service_files(FILES
   CallIK.srv
   CartesianPath.srv
+  PairwiseRank.srv
   PrepareGrasp.srv
   SuggestGrasps.srv
 )

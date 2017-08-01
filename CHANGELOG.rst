@@ -2,6 +2,11 @@
 Changelog for package rail_manipulation_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.11 (2017-08-01)
+-------------------
+* Added new service used in grasp suggestion and ranking
+* Contributors: David Kent
+
 0.0.10 (2017-07-18)
 -------------------
 * Merge pull request `#2 <https://github.com/GT-RAIL/rail_manipulation_msgs/issues/2>`_ from velveteenrobot/develop
