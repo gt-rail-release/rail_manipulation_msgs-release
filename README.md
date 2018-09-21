@@ -1,3 +1,26 @@
+## rail_manipulation_msgs (kinetic) - 0.0.12-0
+
+The packages in the `rail_manipulation_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release rail_manipulation_msgs --track kinetic --rosdistro kinetic --new-track` on `Fri, 21 Sep 2018 19:37:44 -0000`
+
+The `rail_manipulation_msgs` package was released.
+
+Version of package(s) in repository `rail_manipulation_msgs`:
+
+- upstream repository: https://github.com/GT-RAIL/rail_manipulation_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.12-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.6`
+- catkin_pkg version: `0.4.8`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.9`
+- vcstools version: `0.1.40`
+
+
 ## rail_manipulation_msgs (indigo) - 0.0.12-0
 
 The packages in the `rail_manipulation_msgs` repository were released into the `indigo` distro by running `/usr/bin/bloom-release rail_manipulation_msgs --rosdistro indigo` on `Fri, 21 Sep 2018 18:12:03 -0000`
