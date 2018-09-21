@@ -2,6 +2,11 @@
 Changelog for package rail_manipulation_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.12 (2018-09-21)
+-------------------
+* Added better bounding volumes and some other features to segmented object message, added alternative API for object segmentation that acts more like a service
+* Contributors: David Kent
+
 0.0.11 (2017-08-01)
 -------------------
 * Added new service used in grasp suggestion and ranking
