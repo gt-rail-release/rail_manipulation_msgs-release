@@ -32,6 +32,7 @@ add_service_files(FILES
   CartesianPath.srv
   PairwiseRank.srv
   PrepareGrasp.srv
+  ProcessSegmentedObjects.srv
   SegmentObjects.srv
   SuggestGrasps.srv
 )
