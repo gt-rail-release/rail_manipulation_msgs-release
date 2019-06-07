@@ -2,6 +2,11 @@
 Changelog for package rail_manipulation_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.13 (2019-06-07)
+-------------------
+* New service message, takes a segmented object list in, returns a segmented object list after some processing has been done
+* Contributors: David Kent
+
 0.0.12 (2018-09-21)
 -------------------
 * Added better bounding volumes and some other features to segmented object message, added alternative API for object segmentation that acts more like a service
