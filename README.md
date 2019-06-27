@@ -1,3 +1,26 @@
+## rail_manipulation_msgs (melodic) - 0.0.14-1
+
+The packages in the `rail_manipulation_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release rail_manipulation_msgs --rosdistro melodic` on `Thu, 27 Jun 2019 16:37:58 -0000`
+
+The `rail_manipulation_msgs` package was released.
+
+Version of package(s) in repository `rail_manipulation_msgs`:
+
+- upstream repository: https://github.com/GT-RAIL/rail_manipulation_msgs.git
+- release repository: https://github.com/gt-rail-release/rail_manipulation_msgs-release.git
+- rosdistro version: `0.0.13-1`
+- old version: `0.0.13-1`
+- new version: `0.0.14-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.12`
+- rosdep version: `0.15.1`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.40`
+
+
 ## rail_manipulation_msgs (melodic) - 0.0.13-1
 
 The packages in the `rail_manipulation_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release rail_manipulation_msgs --rosdistro melodic` on `Fri, 07 Jun 2019 18:16:13 -0000`
