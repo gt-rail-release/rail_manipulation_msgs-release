@@ -2,6 +2,12 @@
 Changelog for package rail_manipulation_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.14 (2019-06-27)
+-------------------
+* Added new srv file for segmenting objects, which allows for passing a pointcloud in the request
+* Added indices of the object in the organized pc to SegementedObject.msg
+* Contributors: Weiyu Liu
+
 0.0.13 (2019-06-07)
 -------------------
 * New service message, takes a segmented object list in, returns a segmented object list after some processing has been done

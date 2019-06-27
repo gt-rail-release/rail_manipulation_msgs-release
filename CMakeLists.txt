@@ -34,6 +34,7 @@ add_service_files(FILES
   PrepareGrasp.srv
   ProcessSegmentedObjects.srv
   SegmentObjects.srv
+  SegmentObjectsFromPointCloud.srv
   SuggestGrasps.srv
 )
 
