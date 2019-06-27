@@ -15,3 +15,4 @@ uint32 model_id                                         # Object model ID (if re
 float64 confidence                                      # Recognition confidence value
 Grasp[] grasps                                          # List of grasps (if recognized)
 visualization_msgs/Marker marker                        # The downsampled visualization of the object
+int32[] image_indices                                  # Indices of the segmented points in the 2D image coordinate
